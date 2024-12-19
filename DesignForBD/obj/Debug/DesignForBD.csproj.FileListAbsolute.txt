@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\bin\Debug\DesignForBD.exe.config
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\bin\Debug\DesignForBD.exe
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\bin\Debug\DesignForBD.pdb
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.Form1.resources
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.Properties.Resources.resources
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.Продавцы.resources
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.exe
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.pdb
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.Покупатели.resources
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.Продукты.resources
+C:\Users\Admin\source\repos\DesignForBD\DesignForBD\obj\Debug\DesignForBD.ITOGI.resources
